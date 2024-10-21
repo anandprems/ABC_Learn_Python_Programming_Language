@@ -28,7 +28,7 @@ Whether you're a beginner or looking to refresh your knowledge, this repository 
 Feel free to explore, contribute, and engage with the content. Let's embark on this Python learning journey together!
 
 🔗 [Day 1 - All About Keywords](https://github.com/anandprems/ABC_Learn_Python_Programming_Language/blob/main/Day_1_Keywords.pdf)
-🔗 [Day 2 - All About Keywords](https://github.com/anandprems/ABC_Learn_Python_Programming_Language/blob/main/Day_2_Syntax_and_Rules.pdf)
+🔗 [Day 2 - Python Syntax and Rules](https://github.com/anandprems/ABC_Learn_Python_Programming_Language/blob/main/Day_2_Syntax_and_Rules.pdf)
 
 
 Happy Coding! 🚀
