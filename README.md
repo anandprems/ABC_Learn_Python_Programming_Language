@@ -21,6 +21,14 @@ For Day 2, we shift focus to Python Syntax and Rules. This section covers:
 - **Detailed Code Examples:** See practical examples of Python syntax in action, ensuring smooth execution and logical flow. (we will be learning in detail later over time)
 - **Interactive Learning:** Follow along with the Thonny IDE to see how Python syntax is structured in real-time.
 
+### Day 3 - Print Function and String Formatting
+In this third section, we explore the versatile print() function and string formatting techniques in Python. You'll find:
+
+- **Comprehensive Guide:** Learn how to use the print() function for output, customize separators and line endings, and handle variables efficiently.
+- **Advanced Formatting Techniques:** Discover how to format strings using the format() method and f-strings, with control over alignment, precision, and data type representation.
+- **Unicode and Encoding:** Understand how to print Unicode characters, emojis, and special symbols, including practical examples.
+- **Code Examples:** Each concept is backed by clear code snippets to demonstrate how to apply the techniques in real-world scenarios.
+
 ### Why This Repository?
 
 Whether you're a beginner or looking to refresh your knowledge, this repository is designed to provide clear and concise resources to enhance your Python programming skills.
@@ -29,6 +37,6 @@ Feel free to explore, contribute, and engage with the content. Let's embark on t
 
 🔗 [Day 1 - All About Keywords](https://github.com/anandprems/ABC_Learn_Python_Programming_Language/blob/main/Day_1_Keywords.pdf)
 🔗 [Day 2 - Python Syntax and Rules](https://github.com/anandprems/ABC_Learn_Python_Programming_Language/blob/main/Day_2_Syntax_and_Rules.pdf)
-
+🔗 [Day 3 - Print_function_String_format](https://github.com/anandprems/ABC_Learn_Python_Programming_Language/blob/main/Day_3_Print_function_String_format.pdf)
 
 Happy Coding! 🚀
