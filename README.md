@@ -29,6 +29,15 @@ In this third section, we explore the versatile print() function and string form
 - **Unicode and Encoding:** Understand how to print Unicode characters, emojis, and special symbols, including practical examples.
 - **Code Examples:** Each concept is backed by clear code snippets to demonstrate how to apply the techniques in real-world scenarios.
 
+### Day 4 - Comments and Docstrings
+Today’s focus is on **Comments and Docstrings**—key tools for making code readable and maintainable.
+
+- **Comments**: How to use single-line and multi-line comments to clarify code, leave notes, and enhance readability.
+- **TODOs in Comments**: Learn to use TODO comments for tracking tasks and planning future improvements in your code.
+- **Docstrings**: Discover how to document functions, classes, and modules using docstrings, which can be accessed through Python’s `__doc__` attribute or `help()` function.
+- **PEP 257 Guidelines**: Best practices for writing consistent, readable docstrings.
+
+
 ### Why This Repository?
 
 Whether you're a beginner or looking to refresh your knowledge, this repository is designed to provide clear and concise resources to enhance your Python programming skills.
@@ -38,5 +47,7 @@ Feel free to explore, contribute, and engage with the content. Let's embark on t
 🔗 [Day 1 - All About Keywords](https://github.com/anandprems/ABC_Learn_Python_Programming_Language/blob/main/Day_1_Keywords.pdf)
 🔗 [Day 2 - Python Syntax and Rules](https://github.com/anandprems/ABC_Learn_Python_Programming_Language/blob/main/Day_2_Syntax_and_Rules.pdf)
 🔗 [Day 3 - Print_function_String_format](https://github.com/anandprems/ABC_Learn_Python_Programming_Language/blob/main/Day_3_Print_function_String_format.pdf)
+🔗 [Day 4 - Comments and Docstrings](https://github.com/anandprems/ABC_Learn_Python_Programming_Language/blob/main/Day_4_comments_and_docstrings.pdf)
+
 
 Happy Coding! 🚀
