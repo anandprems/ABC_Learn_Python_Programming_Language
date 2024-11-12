@@ -61,6 +61,25 @@ In this section, we explore **Variables and Data Types** in depth, covering ever
 
 🔗 [Day 5 - Variables and Data Types in Python](https://github.com/anandprems/ABC_Learn_Python_Programming_Language/blob/main/Day_5__Variables_and_Data_Types_in_Python.pdf)
 
+### Day 6 - Type Conversion in Python
+Today’s guide covers **Type Conversion in Python** and delves into advanced techniques beyond the basics.
+
+- **Implicit and Explicit Conversion**: Understand Python’s automatic type handling and how to manually convert types.
+- **Advanced Conversion Techniques**:
+  - **Automatic Type Promotion**: How Python promotes types in operations.
+  - **Complex Number Conversions**: Explore conversions with complex numbers.
+  - **Precise Conversions with `Decimal` and `Fraction`**: Manage floating-point precision.
+  - **Collection Conversions**: Convert lists, tuples, and sets.
+- **Custom Conversion in Classes**: Use `__int__`, `__float__`, and `__str__` in custom classes for flexible conversions.
+- **Unique Conversion Tools**:
+  - **NumPy’s `astype()` Method**: Convert data types in arrays.
+  - **Byte-Level Conversion with `struct`**: Manage byte-level data.
+  - **`functools.singledispatch` for Custom Conversion Logic**: Write adaptable functions for different types.
+- **Best Practices**: Tips for avoiding errors and handling edge cases in type conversion.
+
+🔗 [Day 6 - Type Conversion in Python](https://github.com/anandprems/ABC_Learn_Python_Programming_Language/blob/main/Day_6_Type_Conversion_in_Python.pdf)
+
+
 ### Why This Repository?
 
 Whether you're a beginner or looking to refresh your knowledge, this repository is designed to provide clear and concise resources to enhance your Python programming skills.
