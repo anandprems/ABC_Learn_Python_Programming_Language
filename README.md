@@ -79,6 +79,38 @@ Today’s guide covers **Type Conversion in Python** and delves into advanced te
 
 🔗 [Day 6 - Type Conversion in Python](https://github.com/anandprems/ABC_Learn_Python_Programming_Language/blob/main/Day_6_Type_Conversion_in_Python.pdf)
 
+### Day 7 - Input from User with `input()` in Python
+
+Today’s guide focuses on **input handling using the `input()` function** in Python. It covers everything from basic usage to advanced techniques for user input.
+
+📌 **What’s Included**:
+1. **Introduction to `input()`**: Learn how to use the `input()` function to prompt users and capture their input as a string.
+2. **Basic User Input**:
+   - Prompt users for input with custom messages.
+   - Store the input in variables for further processing.
+3. **Type Conversion**:
+   - Convert input to `int`, `float`, `bool`, and other types for various operations.
+4. **Error Handling with `try-except`**:
+   - Manage invalid inputs gracefully to avoid crashes.
+5. **Advanced Prompting Techniques**:
+   - Use multi-line prompts and validation loops for better user interaction.
+6. **Handling Multiple Inputs**:
+   - Use `split()` to accept multiple inputs in a single line.
+   - Process inputs as lists or other data structures.
+7. **Secure Input with `getpass`**:
+   - Collect sensitive input like passwords securely without displaying them.
+8. **Input Validation**:
+   - Validate inputs for conditions like positive numbers, specific formats, etc.
+   - Use regular expressions (`re`) for advanced validation, such as email formats.
+9. **Handling Default Values**:
+   - Provide default values when users skip input.
+10. **Working with Multi-Line Input**:
+    - Implement loops to collect and process multiple lines of input.
+
+📂 **Check out today’s detailed PDF guide here**:  
+🔗 [Day 7 - Input from User with `input()` in Python](https://github.com/anandprems/ABC_Learn_Python_Programming_Language/blob/main/Day_7__Input_from_User_with_input___in_Python.pdf)
+
+
 
 ### Why This Repository?
 
