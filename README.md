@@ -129,7 +129,7 @@ Identity Operators: Compare the memory locations of two objects.
 Ternary Operators: Perform conditional assignments in a single line.
 
 For detailed examples and explanations, refer to the PDF guide:
-🔗 Day 8 - https://github.com/anandprems/ABC_Learn_Python_Programming_Language/blob/main/Day_8__Operators_in_Python.pdf 
+🔗 [Day 8 - Operators in Python](https://github.com/anandprems/ABC_Learn_Python_Programming_Language/blob/main/Day_8__Operators_in_Python.pdf )
 
 
 ### Why This Repository?
