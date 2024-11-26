@@ -110,6 +110,26 @@ Today’s guide focuses on **input handling using the `input()` function** in Py
 📂 **Check out today’s detailed PDF guide here**:  
 🔗 [Day 7 - Input from User with `input()` in Python](https://github.com/anandprems/ABC_Learn_Python_Programming_Language/blob/main/Day_7__Input_from_User_with_input___in_Python.pdf)
 
+### Day 8 - Operators in Python
+
+In Day 8, we dive into the core topic of Operators in Python—essential tools for performing various operations on data. This guide covers:
+
+What are Operators?
+Operators are symbols or keywords that perform operations on variables and values, forming the backbone of programming logic.
+
+Types of Operators in Python:
+
+Arithmetic Operators: Perform mathematical calculations like addition, subtraction, multiplication, division, and more.
+Comparison Operators: Compare two values to return a boolean result.
+Logical Operators: Combine conditional statements to return True or False.
+Bitwise Operators: Operate at the bit level, useful for low-level tasks.
+Assignment Operators: Assign values to variables with or without performing additional operations.
+Membership Operators: Test if a value is part of a sequence, like a list or string.
+Identity Operators: Compare the memory locations of two objects.
+Ternary Operators: Perform conditional assignments in a single line.
+
+For detailed examples and explanations, refer to the PDF guide:
+🔗 Day 8 - https://github.com/anandprems/ABC_Learn_Python_Programming_Language/blob/main/Day_8__Operators_in_Python.pdf 
 
 
 ### Why This Repository?
