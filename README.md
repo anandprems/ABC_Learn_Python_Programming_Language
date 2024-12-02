@@ -138,13 +138,13 @@ What are Arithmetic Operators?
 Arithmetic operators are symbols used to perform mathematical operations like addition, subtraction, multiplication, division, and more. Python supports the following:
 
 Operator	Description
-+	Addition
--	Subtraction
-*	Multiplication
-/	Division (returns float)
-//	Floor Division (integer)
-%	Modulus (remainder)
-**	Exponentiation (power)
+- +	Addition
+- -	Subtraction
+- *	Multiplication
+- /	Division (returns float)
+- //	Floor Division (integer)
+- %	Modulus (remainder)
+- **	Exponentiation (power)
 
 Key Highlights
 - Common Uses: Perform calculations, manage data, and implement logic in programs.
