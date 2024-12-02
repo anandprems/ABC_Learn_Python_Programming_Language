@@ -147,20 +147,21 @@ Operator	Description
 **	Exponentiation (power)
 
 Key Highlights
-Common Uses: Perform calculations, manage data, and implement logic in programs.
-Operator Precedence: Understand how Python evaluates expressions and the role of parentheses in controlling order.
-Arithmetic in Logic: Combine arithmetic and logical operators for complex conditions.
+- Common Uses: Perform calculations, manage data, and implement logic in programs.
+- Operator Precedence: Understand how Python evaluates expressions and the role of parentheses in controlling order.
+- Arithmetic in Logic: Combine arithmetic and logical operators for complex conditions.
 
 Topics Covered
-Detailed Explanations: Learn the behavior and use cases of each operator.
-Error Handling: Handle common errors like division by zero and floating-point precision issues.
-Augmented Assignment: Efficiently use +=, -=, *= for cleaner, faster code.
+- Detailed Explanations: Learn the behavior and use cases of each operator.
+- Error Handling: Handle common errors like division by zero and floating-point precision issues.
+- Augmented Assignment: Efficiently use +=, -=, *= for cleaner, faster code.
+
 Practical Examples:
-Swap two numbers without a third variable.
-Calculate compound interest using arithmetic operations.
-Determine divisibility by 3 and 5 without logical operators.
-Check if a number is a perfect square using math.sqrt().
-Perform high-precision financial calculations using decimal.Decimal.
+- Swap two numbers without a third variable.
+- Calculate compound interest using arithmetic operations.
+- Determine divisibility by 3 and 5 without logical operators.
+- Check if a number is a perfect square using math.sqrt().
+- Perform high-precision financial calculations using decimal.Decimal.
 
 📂 Check out the detailed PDF guide for this topic:
 🔗 [Day 9 - Arithmetic Operators in Python](https://github.com/anandprems/ABC_Learn_Python_Programming_Language/blob/main/Day_9_Arithemetic_Operators.pdf)
